@@ -30,7 +30,7 @@ class PengumumanController extends Controller
 
     public function show(string $id)
     {
-        //
+        // testing perubahan untuk github
     }
 
     public function edit(string $id)
